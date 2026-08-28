@@ -2,7 +2,7 @@
 
 ParticleShield is a Python library designed to facilitate radiation shielding calculations. It provides a set of functions and utilities to determine the amount of radiation absorbed by different shielding materials for different types of radiation.
 
-Made by: Pragyan Yadav and Vijayanidhi Pillai
+Made by: Pragyan Yadav and Vijayanidhi Vidhiventhan Pillai
 ## Features
 
 This Python code provides a set of functions to perform various calculations related to radiation physics, including:
